@@ -1,9 +1,6 @@
-# Interfaz-Principal-de-AI-Generated-App-Prototyper
-Proyecto de prototipado de interfaces con Python, PyQt5 y Generative AI
-
 # AI-Generated App Prototyper
 
-**Proyecto personal de Carlos Betancourt**  
+**Proyecto personal de Carlos Palacios Betancourt**  
 Aplicación de escritorio para prototipado de interfaces utilizando Python, PyQt5 y Generative AI, orientada a demostrar UX/UI con inteligencia artificial generativa.
 
 ---
