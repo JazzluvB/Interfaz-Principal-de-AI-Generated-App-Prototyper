@@ -1,6 +1,7 @@
 # AI-Generated App Prototyper
 
 **Proyecto personal de Carlos Palacios Betancourt**  
+“AI UX/UI prototyping app: Python, PyQt5, and Generative AI for interface design.
 Aplicación de escritorio para prototipado de interfaces utilizando Python, PyQt5 y Generative AI, orientada a demostrar UX/UI con inteligencia artificial generativa.
 
 ---
